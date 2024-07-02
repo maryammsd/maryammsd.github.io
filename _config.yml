@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maryam Masoudian"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Maryam Masoudian"
-description              : &description "I am a fifth year dual-degree PhD student at Hong Kong University of Science and Technology and Sharif University of Technology. I am fortunate to work with Professor Charles Zhang and Dr. Morteza Amini. 
+description              : &description "I am a fifth-year dual-degree PhD student at Hong Kong University of Science and Technology and Sharif University of Technology. I am fortunate to work with Professor Charles Zhang and Dr. Morteza Amini. 
 "
-url                      : https://mrymsdn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maryammsd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Maryam Masoudian"
   pronouns         : she/her # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong (Now)"
   employer         : "Hong Kong University of Science and Technology University"
   uri              : # URL
