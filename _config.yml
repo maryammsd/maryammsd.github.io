@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Maryam Masoudian"
 title_separator          : "-"
 name                     : &name "Maryam Masoudian"
 description              : &description "I am a fifth-year dual-degree PhD student at Hong Kong University of Science and Technology and Sharif University of Technology. I am fortunate to work with Professor Charles Zhang and Dr. Morteza Amini. 
@@ -27,7 +27,7 @@ author:
   pronouns         : she/her # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong (Now)"
-  employer         : "Hong Kong University of Science and Technology University"
+  employer         : "HKUST and SUT"
   uri              : # URL
   email            : "mamt@connect.ust.hk" 
 
