@@ -42,9 +42,11 @@ Software Testing, Program Analysis
 Reading Books, Swimming, Hiking, Yoga, Cooking
 
 ### Favorite Quotes
-*"The more I learn, the more I realize how much I don't know"* by Albert Einstein
+*"The more I learn, the more I realize how much I don't know"* by Albert Einstein.
 
-*" Small acts of kindness make a big difference"*
+*"The pleasure of finding things out is the most important kind of happiness that you can have"* by Richard Feynman.
+
+*" Small acts of kindness make a big difference."*
 
 *" Be optimistic, but not overly optimistic."*
 
