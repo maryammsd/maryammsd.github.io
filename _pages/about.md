@@ -36,7 +36,8 @@ Software Testing, Program Analysis
 * Awarded honorary direct admission to graduate school (PhD) of Computer Engineering, Sharif The University of Technology, without taking the national entrance exam for graduate schools due to high academic records and achievements, 2017.
 * In the top 5% among more than 1000 participants in the Ph.D. Entrance Exam in Information Technology Engineering, 2017.
 * Awarded honorary direct admission to graduate school (M.Sc.) of Computer Engineering, Amirkabir University of Technology, without taking the national entrance exam for graduate schools due to high academic records and achievements, 2014.
-* Awarded 
+
+
 ### Hobbies
 Reading Books, Swimming, Hiking, Yoga, Cooking
 
