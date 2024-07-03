@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a dual-degree PhD student at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, and Sharif University of Technology supervised by Professor Charles Zhang and Dr. Amini. Before that, I received my Master degree from the Department of Computer Engineering, Sharif University of Technology in 2016, supervised by Dr. Mehdi Kharrazi. Currently, my research is about using fuzzing techniques for crash reproduction in Android applications. 
+I am currently a dual-degree PhD student at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology, and Sharif University of Technology supervised by Professor Charles Zhang and Dr. Amini. Currently, my research is about using fuzzing techniques for crash reproduction in Android applications. I am eager to automate the process of triggering a crash under vast GUI event space in Android apps given as little information as having only the crash stack trace. Before that, I received my Master degree from the Department of Computer Engineering, Sharif University of Technology in 2016, supervised by Dr. Mehdi Kharrazi. At that time, I focused on the analysis of programs at the hypervisor level. 
 
 ### Research Interest
 Software Testing, Program Analysis
 
 ### Skills
 * **Programming Languages:** Java, Python, C++.
-* **Tools:** Git, Docker, Android Studio, Visual Studio, ADB, Android Emulator, etc.
+* **Tools:** Git, Docker, Xen, Qemu, Android Studio, Visual Studio, ADB, Android Emulator, etc.
 
 ### Professional Publications
 * Maryam Masoudian, Heqing Huang, Morteza Amini, Charles Zhang. 2023. Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events. Under submission at IEEE Transactions of Software Engineering [Major Revision]
