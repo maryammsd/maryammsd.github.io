@@ -21,7 +21,7 @@ Software Testing, Program Analysis
 * **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events. Under submission at IEEE Transactions of Software Engineering [Accepted and to appear soon.]
 
 ### Professional Services
-* **Program Committee Member:** USENIX’20, USENIX’21, USENIX’22 Artifact Evaluation
+* **Artifact Evaluation Committee:** USENIX’20, USENIX’21, USENIX’22
 * **Reviewer/Sub-/Co-:** ISSTA’24
 
 ### Teaching Experience
@@ -34,10 +34,14 @@ Software Testing, Program Analysis
 ### Honors and Awards
 * Postgraduate Studentship received from the Hong Kong University of Science and Technology
 (2019-2023)
-* Awarded honorary direct admission to graduate school (PhD) of Computer Engineering, Sharif The University of Technology, without taking the national entrance exam for graduate schools due to high academic records and achievements, 2017.
+* Awarded honorary direct admission to the graduate school (PhD) of Computer Engineering at Sharif University of Technology without taking the national entrance exam for graduate schools due to high academic records and achievements in 2017.
 * In the top 5% among more than 1000 participants in the Ph.D. Entrance Exam in Information Technology Engineering, 2017.
-* Awarded honorary direct admission to graduate school (M.Sc.) of Computer Engineering, Amirkabir University of Technology, without taking the national entrance exam for graduate schools due to high academic records and achievements, 2014.
+* Awarded honorary direct admission to graduate school (M.Sc.) of Computer Engineering, Amirkabir University of Technology, and Computer Engineering, Sharif University of Technology, without taking the national entrance exam for graduate schools due to high academic records and achievements, 2014.
 
+### Training and Voluntary Experience
+* Mental Health First Aid (MHFA), Hong Kong, 2024.
+* Peer Companion, [Counselling and Wellness Center](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=36&anchor=peersupport), Hong Kong University of Science and Technology, Hong Kong, 2022,2023 and 2024.
+  
 
 ### Hobbies
 Reading Books, Swimming, Hiking, Yoga, Cooking
