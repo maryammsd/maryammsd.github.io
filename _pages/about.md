@@ -17,8 +17,7 @@ Software Testing, Program Analysis
 * **Tools:** Git, Docker, Xen, Qemu, Android Studio, Visual Studio, ADB, Android Emulator, etc.
 
 ### Professional Publications
-(* corresponding author)
-* **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events. Under submission at IEEE Transactions of Software Engineering [Accepted and to appear soon.]
+* **Maryam Masoudian**, Heqing Huang, Morteza Amini, Charles Zhang. 2023. Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events. Under submission at IEEE Transactions of Software Engineering [Accepted and to appear soon.]
 
 ### Professional Services
 * **Artifact Evaluation Committee:** USENIX’20, USENIX’21, USENIX’22
