@@ -17,7 +17,7 @@ Software Testing, Program Analysis
 * **Tools:** Git, Docker, Xen, Qemu, Android Studio, Visual Studio, ADB, Android Emulator, etc.
 
 ### Professional Publications
-* **Maryam Masoudian**, Heqing Huang, Morteza Amini, Charles Zhang. 2023. Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events. Under submission at IEEE Transactions of Software Engineering [Accepted and to appear soon.]
+* **Maryam Masoudian**, Heqing Huang, Morteza Amini, Charles Zhang. 2023. Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events. IEEE Transactions of Software Engineering [*To appear*]
 
 ### Professional Services
 * **Artifact Evaluation Committee:** USENIX’20, USENIX’21, USENIX’22
@@ -39,7 +39,7 @@ Software Testing, Program Analysis
 
 ### Training and Voluntary Experience
 * Mental Health First Aid (MHFA), Hong Kong, 2024.
-* Peer Companion, [Counselling and Wellness Center](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=36&anchor=peersupport), Hong Kong University of Science and Technology, Hong Kong, 2022,2023 and 2024.
+* Peer Companion, [Counselling and Wellness Center](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=36&anchor=peersupport), Hong Kong University of Science and Technology, Hong Kong, 2021 - Now.
   
 
 ### Hobbies
