@@ -19,8 +19,8 @@ Software Testing, Program Analysis
 ### Professional Publications
 (* means the corresponding author)
 
-* **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338). IEEE Transactions of Software Engineering.
 
+* **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338). IEEE Transactions of Software Engineering (2024) and ICSE'25 journal-first.
 
 
 ### Professional Services
