@@ -20,7 +20,7 @@ Software Testing, Program Analysis
 (* means the corresponding author)
 
 
-* **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338). IEEE Transactions of Software Engineering (2024) and ICSE'25 journal-first.
+* [TSE'24] [ICSE'25 Journal-first] **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338).
 
 
 ### Professional Services
@@ -35,6 +35,7 @@ Software Testing, Program Analysis
 * **Teaching Assistant, Data Mining:** Fall 2016
 
 ### Honors and Awards
+* ACM SIGSOFT CAPS, ICSE'25. 
 * Postgraduate Studentship received from the Hong Kong University of Science and Technology
 (2019-2023)
 * Awarded honorary direct admission to the graduate school (PhD) of Computer Engineering at Sharif University of Technology without taking the national entrance exam for graduate schools due to high academic records and achievements in 2017.
