@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "maryam.png"
   name             : "Maryam Masoudian"
   pronouns         : she/her # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Tehran and Hong Kong (Now)"
-  employer         : "HKUST and SUT"
+  employer         : "SUT and HKUST"
   uri              : # URL
   email            : "mamt@connect.ust.hk" 
 
