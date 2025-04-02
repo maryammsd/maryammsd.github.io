@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Computer Science, Hong Kong University of Science and Technology, August 2025 (expected)
@@ -48,15 +46,11 @@ Honors and Awards
 * Awarded honorary direct admission to graduate school (M.Sc.) of Computer Engineering, Amirkabir University of Technology, and Computer Engineering, Sharif University of Technology, without taking the national entrance exam for graduate schools due to high academic records and achievements, 2014.
 
 
-  Training and Voluntary Experience
-  =========
+Training and Voluntary Experience
+=========
 * Mental Health First Aid (MHFA), Hong Kong, 2024.
 * Peer Companion, [Counselling and Wellness Center](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=36&anchor=peersupport), Hong Kong University of Science and Technology, Hong Kong, 2021 - Now.
 
-  Hobbies
-  =========
-* Reading Books
-* Swimming
-* Hiking
-* Yoga
-* Cooking
+Hobbies
+=========
+* Reading Books, Swimming, Hiking, Yoga, Cooking
