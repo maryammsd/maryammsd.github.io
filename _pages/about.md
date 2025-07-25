@@ -22,3 +22,6 @@ Program Analysis, Large Language Models
 
 *" Be optimistic, but not overly optimistic."*
 
+"اگر تنهاترین تنها باشم، باز خدا هست" علی شریعتی
+
+
