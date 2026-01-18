@@ -8,15 +8,16 @@ main:
 
   # - title: "Teaching"
   # url: /teaching/    
-    
-  # - title: "Portfolio"
-  #  url: /portfolio/
+
         
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Curriculum Vitae"
-    url: /cv/
+  - title: "Academic Background"
+    url: /academic/
+        
+   - title: "Research & Professional Service"
+    url: /research/
     
-  # - title: "Guide"
-  #  url: /markdown/
+   - title: "Services & Personal"
+    url: /personal/
