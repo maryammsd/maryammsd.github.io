@@ -1,5 +1,13 @@
 # main links links
 main:
+  - title: "Academic Background"
+    url: /academic/
+  - title: "Research & Professional Service"
+    url: /research/
+  - title: "Services & Personal"
+    url: /personal/
+
+    
   #- title: "Publications"
   #  url: /publications/
 
@@ -13,11 +21,4 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-   - title: "Academic Background"
-    url: /academic/
-        
-   - title: "Research & Professional Service"
-    url: /research/
-    
-   - title: "Services & Personal"
-    url: /personal/
+
