@@ -201,18 +201,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  personal:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  academic:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # talks:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -220,7 +220,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: academic
     values:
       layout: single
       author_profile: true
@@ -235,41 +235,34 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _academic
   - scope:
       path: ""
-      type: teaching
+      type: academic
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _personal
   - scope:
       path: ""
-      type: portfolio
+      type: personal
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 
 # Sass/SCSS
