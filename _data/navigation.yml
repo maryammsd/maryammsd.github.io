@@ -13,7 +13,7 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "Academic Background"
+   - title: "Academic Background"
     url: /academic/
         
    - title: "Research & Professional Service"
