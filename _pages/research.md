@@ -20,5 +20,5 @@ redirect_from:
 * **Teaching Assistant, Data Mining:** Fall 2016
 
 ## Professional Services
-* **Artifact Evaluation PC**: USENIX’20, USENIX’21 and USENIX’22
-* **Junior PC**: MSR’25  
+* **Artifact Evaluation PC**: USENIX’20, USENIX’21, USENIX’22, ECOOP'26
+* **Junior PC**: MSR’26
