@@ -10,7 +10,7 @@ redirect_from:
 ## Publications
 (* means the corresponding author)
 
-* **[TSE'24]** **[ICSE'25 Journal-first]** **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2023. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338).
+* **[TSE'24]** **[ICSE'25 Journal-first]** **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2024. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338).
   
 ## Teaching
 * **Teaching Assistant, Java Programming:** Spring 2024, Spring 2023
