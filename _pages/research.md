@@ -12,7 +12,7 @@ redirect_from:
 
 * **[TSE'24]** **[ICSE'25 Journal-first]** **Maryam Masoudian***, Heqing Huang, Morteza Amini, Charles Zhang. 2024. [Mole: Efficient Crash Reproduction in Android Applications with Enforcing Necessary UI Events](https://ieeexplore.ieee.org/document/10599338).
 * **[arXiv]** **Maryam Masoudian**, Anshunkang Zhou, Chengpeng Wang, Charles Zhang. 2026. [DAInfer+: Neurosymbolic Inference of API Specifications from Documentation
-via Embedding Models]()**
+via Embedding Models](https://arxiv.org/abs/2603.28060)**
   
 ## Teaching
 * **Teaching Assistant, Java Programming:** Spring 2024, Spring 2023.
