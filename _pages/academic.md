@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D in Computer Science, Hong Kong University of Science and Technology, On-going
+* Ph.D in Computer Science, Hong Kong University of Science and Technology, 2026
 * Ph.D in Software Engineering, Sharif University of Technology, January 2025
 * M.S. in Information Technology, Sharif University of Technology, December 2016
 * B.S. in Information Technology, Amirkabir University of Technology, August 2014
