@@ -23,4 +23,4 @@ via Embedding Models](https://arxiv.org/abs/2603.28060).
 
 ## Professional Services
 * **Artifact Evaluation PC**: ECOOP'26, USENIX’22, USENIX’21, USENIX’20. 
-* **Junior PC**: MSR’26.
+* **Junior PC**: MSR’26,ICSE'27 (Shadow-PC).
