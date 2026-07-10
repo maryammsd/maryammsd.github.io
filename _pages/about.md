@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a dual-degree PhD candidate in the Computer Science and Engineering, jointly affiliated with the Hong Kong University of Science and Technology, and the Sharif University of Technology. Under supervision of [Professor Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) and [Dr. Morteza Amini](https://sharif.edu/~amini/), my research focuses on improving software reliability through static analysis and testing.
+I was a dual-degree PhD candidate in the Computer Science and Engineering, jointly affiliated with the Hong Kong University of Science and Technology, and the Sharif University of Technology. Under supervision of [Professor Charles Zhang](https://cse.hkust.edu.hk/~charlesz/) and [Dr. Morteza Amini](https://sharif.edu/~amini/), my research focuses on improving software reliability through static analysis and testing.
 
 During my PhD, my work involves developing innovative static analysis techniques to generate inputs for automated testing. The goal of this research is to effectively reproduce crashes in Android applications, particularly when only a crash stack trace is available.
 Prior to that, I received my Master's degree from the Department of Computer Engineering, Sharif University of Technology, in 2016. My earlier research centered on monitoring software programs at the hypervisor level through memory access analysis. My academic journey began with a bachelor's degree from Amirkabir University of Technology in 2014.
