@@ -11,7 +11,7 @@ redirect_from:
 To prepare myself to assist individuals experiencing mental health challenges such as anxiety and depression, I completed training at the Hong Kong University of Science and Technology and obtained my Mental Health First Aid certificate.
   
   
-* **Peer Companion, [Counselling and Wellness Center](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=36&anchor=peersupport), Hong Kong University of Science and Technology, Hong Kong, 2021 - Now.**<br> 
+* **Peer Companion, [Counselling and Wellness Center](https://counsel.hkust.edu.hk/page.php?section=Resources&subsection=36&anchor=peersupport), Hong Kong University of Science and Technology, Hong Kong, 2021 - 2026.**<br> 
 I served as a peer companion with Counselling and Wellness center in Hong Kong University of Science and Technology. To promote mental wellness and provide a supportive environment to fellow students, we organized several activities, one-on-one conversation with students at JUSTalk cafe, story telling sessions, and [Zentangle](https://zentangle.com/?srsltid=AfmBOooJTNyNr5EDFMNsGkt8KIUDHsDP249P1iINLpCpPNqffBdagGzi) art sessions.
 
 ## Hobbies
