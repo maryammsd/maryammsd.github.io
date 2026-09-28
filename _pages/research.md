@@ -22,5 +22,6 @@ via Embedding Models](https://arxiv.org/abs/2603.28060).
 * **Teaching Assistant, Data Mining:** Fall 2016.
 
 ## Professional Services
-* **Artifact Evaluation PC**: ECOOP'26, USENIX’22, USENIX’21, USENIX’20. 
-* **Junior PC**: SANER'27, MSR'27, ChainSEC'27, ICSE'27 (Shadow-PC), MSR’26.
+* **Artifact Evaluation Program Committee Member**: ECOOP'26, USENIX’22, USENIX’21, USENIX’20. 
+* **Program Committee Member**: SANER'27, MSR'27, ChainSEC'27, ICSE'27 (Shadow-PC), MSR’26 (Junior-PC).
+* **Journal Reviewer**: IEEE TSE, ACM TOSEM.
