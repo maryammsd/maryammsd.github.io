@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Maryam Masoudian"
 title_separator          : "-"
 name                     : &name "Maryam Masoudian"
-description              : &description "I am a fifth-year dual-degree PhD student at Hong Kong University of Science and Technology and Sharif University of Technology. I am fortunate to work with Professor Charles Zhang and Dr. Morteza Amini. 
+description              : &description "I am a postdoctoral fewllow at University of Auckland, working with Kelly Blincoe and Valerio Terragni. 
 "
 url                      : https://maryammsd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   name             : "Maryam Masoudian"
   pronouns         : she/her # example: "she/her"  
   bio              : "Academic by day, resilient fighter by nature. 🎓💪"
-  location         : "Tehran and Hong Kong (Now)"
-  employer         : "SUT and HKUST"
+  location         : "Tehran, Hong Kong and Auckland (Now)"
+  employer         : "UoA"
   uri              : # URL
-  email            : "mamt@connect.ust.hk" 
+  email            : "maryam.masoudian@auckland.ac.nz" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
