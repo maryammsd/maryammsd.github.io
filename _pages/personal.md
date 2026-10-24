@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 ## Training and Voluntary Experience
+
+* **[SIGPLAN-M Mentoring](https://www.sigplan.org/LongTermMentoring/), SIGPLAN-M, 2026.**<br>
+  Serving as an international long-term mentor to support, guide, and connect aspiring students and computer science researchers across global institutions.
+
 * **[Enginuity Day](https://www.auckland.ac.nz/en/engineering/study-with-us/women-in-engineering/enginuity.html), University of Auckland, New Zealand, 2026.**<br>
 An Enginuity is a once-a-year opportunity for secondary school girls to explore the possibility of a career as an engineer during a day of activities at the University of Auckland’s Faculty of Engineering and Design. In this day, I lead a software engineering workshop to teach young students what software engineering is, how they can solve engineering tasks with coding and vibe-coding.  
 
